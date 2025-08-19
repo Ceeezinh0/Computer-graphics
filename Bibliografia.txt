@@ -1,9 +1,0 @@
-Bibliografia:
-
-* Computação Gráfica - Teoria e Prática - E.Azevedo, A.Conci (2003)
-
-* Computação Gráfica Vol 2 - Conci, Aura, Eduardo Azevedo, and Fabiana R. Leta (2008)
-
-* Computer Graphics - Principles and Practices Ed 3 - John F. Hughes, Andries van Dam, Morgan McGuire, David F. Sklar, James D. Foley, Steven K. Feiner, Kurt Akeley (2013)
-
-* Computer Graphics with OpenGL - Donald D. Hearn, Pauline Baker, Warren Carithers (2014)
